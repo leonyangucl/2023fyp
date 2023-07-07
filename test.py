@@ -1,3 +1,4 @@
 ## This is a test file
-Import numpy as np
-Import pandas as pd
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
